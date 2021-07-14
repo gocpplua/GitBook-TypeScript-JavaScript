@@ -6,3 +6,7 @@
 
 * [TypeScript Contents](typescript/typescript-contents.md)
 
+## JavaScript
+
+* [JavaScript Contents](javascript/javascript-contents.md)
+
